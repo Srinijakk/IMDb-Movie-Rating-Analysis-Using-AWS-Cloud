@@ -1,0 +1,14 @@
+imdb-movie-rating-analysis-aws/
+├── data/
+│   └── imdb_dataset_sample.csv
+├── scripts/
+│   ├── glue_etl_script.py
+│   ├── redshift_queries.sql
+│   └── lambda_trigger.py
+├── dashboards/
+│   └── quicksight_screenshots/
+│       └── genre_ratings_distribution.png
+├── architecture/
+│   └── aws_pipeline_diagram.png
+├── README.md
+└── LICENSE
